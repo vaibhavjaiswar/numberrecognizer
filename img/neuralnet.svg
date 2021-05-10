@@ -1,0 +1,18 @@
+<svg width="230" height="150" viewBox="0 0 230 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<line x1="170" y1="105.5" x2="230" y2="105.5" stroke="black" stroke-width="5"/>
+	<line x1="170" y1="45.5" x2="230" y2="45.5" stroke="black" stroke-width="5"/>
+	<line x1="1.82131e-07" y1="134.5" x2="60" y2="134.5" stroke="black" stroke-width="5"/>
+	<line x1="1.82131e-07" y1="74.5" x2="60" y2="74.5" stroke="black" stroke-width="5"/>
+	<line x1="1.82131e-07" y1="14.5" x2="60" y2="14.5" stroke="black" stroke-width="5"/>
+	<line x1="61.5831" y1="15.0651" x2="171.583" y2="105.065" stroke="black" stroke-width="5"/>
+	<line x1="58.4169" y1="137.065" x2="168.417" y2="47.0651" stroke="black" stroke-width="5"/>
+	<line x1="59.3422" y1="135.588" x2="169.342" y2="105.588" stroke="black" stroke-width="5"/>
+	<line x1="60.6578" y1="74.5881" x2="170.658" y2="104.588" stroke="black" stroke-width="5"/>
+	<line x1="59.3422" y1="75.5881" x2="169.342" y2="45.5881" stroke="black" stroke-width="5"/>
+	<line x1="60.6578" y1="14.5881" x2="170.658" y2="44.5881" stroke="black" stroke-width="5"/>
+	<circle cx="170" cy="105" r="15" fill="black"/>
+	<circle cx="170" cy="45" r="15" fill="black"/>
+	<circle cx="60" cy="135" r="15" fill="black"/>
+	<circle cx="60" cy="75" r="15" fill="black"/>
+	<circle cx="60" cy="15" r="15" fill="black"/>
+</svg>

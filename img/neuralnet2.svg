@@ -1,0 +1,22 @@
+<svg width="230" height="150" viewBox="0 0 230 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath id="mynn">
+			<circle cx="170" cy="105" r="15" fill="black"/>
+			<circle cx="170" cy="45" r="15" fill="black"/>
+			<circle cx="60" cy="135" r="15" fill="black"/>
+			<circle cx="60" cy="75" r="15" fill="black"/>
+			<circle cx="60" cy="15" r="15" fill="black"/>
+			<rect y="12" width="60" height="6" fill="black"/>
+			<rect y="72" width="60" height="6" fill="black"/>
+			<rect x="61.3405" y="12.934" width="112.731" height="6" transform="rotate(15 61.3405 12.934)" fill="black"/>
+			<rect x="61.5529" y="73" width="112.731" height="6" transform="rotate(15 61.5529 73)" fill="black"/>
+			<rect x="60" y="132.177" width="112.731" height="6" transform="rotate(-15 60 132.177)" fill="black"/>
+			<rect x="58" y="130.974" width="141.27" height="6" transform="rotate(-38 58 130.974)" fill="black"/>
+			<rect x="61.694" y="15" width="141.27" height="6" transform="rotate(38 61.694 15)" fill="black"/>
+			<rect x="60" y="72.1769" width="112.731" height="6" transform="rotate(-15 60 72.1769)" fill="black"/>
+			<rect x="170" y="102" width="60" height="6" fill="black"/>
+			<rect x="170" y="42" width="60" height="6" fill="black"/>
+			<rect y="132" width="60" height="6" fill="black"/>
+		</clipPath>
+	<defs>
+</svg>

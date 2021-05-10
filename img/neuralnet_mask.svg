@@ -1,0 +1,164 @@
+<svg width="230" height="150" viewBox="0 0 230 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="170" y="102" width="60" height="5">
+		<line x1="170" y1="104.5" x2="230" y2="104.5" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask0)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint0_linear)"/>
+	</g>
+	<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="170" y="42" width="60" height="5">
+		<line x1="170" y1="44.5" x2="230" y2="44.5" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask1)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint1_linear)"/>
+	</g>
+	<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="132" width="60" height="5">
+		<line x1="1.82131e-07" y1="134.5" x2="60" y2="134.5" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask2)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint2_linear)"/>
+	</g>
+	<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="72" width="60" height="5">
+		<line x1="1.82131e-07" y1="74.5" x2="60" y2="74.5" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask3)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint3_linear)"/>
+	</g>
+	<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="12" width="60" height="5">
+		<line x1="1.82131e-07" y1="14.5" x2="60" y2="14.5" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask4)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint4_linear)"/>
+	</g>
+	<mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="60" y="13" width="114" height="94">
+		<line x1="61.5831" y1="15.0651" x2="171.583" y2="105.065" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask5)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint5_linear)"/>
+	</g>
+	<mask id="mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="56" y="43" width="114" height="94">
+		<line x1="58.4169" y1="135.065" x2="168.417" y2="45.0651" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask6)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint6_linear)"/>
+	</g>
+	<mask id="mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="58" y="102" width="112" height="35">
+		<line x1="59.3422" y1="134.588" x2="169.342" y2="104.588" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask7)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint7_linear)"/>
+	</g>
+	<mask id="mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="60" y="72" width="112" height="35">
+		<line x1="60.6578" y1="74.5881" x2="170.658" y2="104.588" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask8)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint8_linear)"/>
+	</g>
+	<mask id="mask9" mask-type="alpha" maskUnits="userSpaceOnUse" x="58" y="42" width="112" height="35">
+		<line x1="59.3422" y1="74.5881" x2="169.342" y2="44.5881" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask9)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint9_linear)"/>
+	</g>
+	<mask id="mask10" mask-type="alpha" maskUnits="userSpaceOnUse" x="60" y="12" width="112" height="35">
+		<line x1="60.6578" y1="14.5881" x2="170.658" y2="44.5881" stroke="white" stroke-width="5"/>
+	</mask>
+	<g mask="url(#mask10)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint10_linear)"/>
+	</g>
+	<mask id="mask11" mask-type="alpha" maskUnits="userSpaceOnUse" x="155" y="90" width="30" height="30">
+		<circle cx="170" cy="105" r="15" fill="white"/>
+	</mask>
+	<g mask="url(#mask11)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint11_linear)"/>
+	</g>
+	<mask id="mask12" mask-type="alpha" maskUnits="userSpaceOnUse" x="155" y="30" width="30" height="30">
+		<circle cx="170" cy="45" r="15" fill="white"/>
+	</mask>
+	<g mask="url(#mask12)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint12_linear)"/>
+	</g>
+	<mask id="mask13" mask-type="alpha" maskUnits="userSpaceOnUse" x="45" y="120" width="30" height="30">
+		<circle cx="60" cy="135" r="15" fill="white"/>
+	</mask>
+	<g mask="url(#mask13)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint13_linear)"/>
+	</g>
+	<mask id="mask14" mask-type="alpha" maskUnits="userSpaceOnUse" x="45" y="60" width="30" height="30">
+		<circle cx="60" cy="75" r="15" fill="white"/>
+	</mask>
+	<g mask="url(#mask14)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint14_linear)"/>
+	</g>
+	<mask id="mask15" mask-type="alpha" maskUnits="userSpaceOnUse" x="45" y="0" width="30" height="30">
+		<circle cx="60" cy="15" r="15" fill="white"/>
+	</mask>
+	<g mask="url(#mask15)">
+		<rect x="-35" y="-25" width="300" height="200" fill="url(#paint15_linear)"/>
+	</g>
+	<defs>
+		<linearGradient id="paint0_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint5_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint6_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint7_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint8_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint9_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint10_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint11_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint12_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint13_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint14_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+		<linearGradient id="paint15_linear" x1="115" y1="-25" x2="115" y2="175" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3531ED"/>
+			<stop offset="1" stop-color="#36A010"/>
+		</linearGradient>
+	</defs>
+</svg>

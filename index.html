@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="" content="">
+	<link rel="icon" type="image/x-icon" href="./favicon.ico">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<title>NeuralNet Number Recognizer</title>
+</head>
+<body>
+	<div id="floating-div">
+		<div>
+			<i id="sample-close-btn" class="fa fa-close"></i>
+			<h2>Sample Digit Drawings</h2>
+			<p><strong>Note:</strong> You need mouse to draw.</p>
+			<div id="all-sample-div">
+				<div>
+					<h3><i class="fa fa-check" style="color: green;"></i> Good for recognition</h3>
+					<div class="sample-img-div">
+						<img class="sample-img" src="./img/good0.png" alt="sample digit image" />
+						<img class="sample-img" src="./img/good1.png" alt="sample digit image" />
+						<img class="sample-img" src="./img/good2.png" alt="sample digit image" />
+						<img class="sample-img" src="./img/good3.png" alt="sample digit image" />
+					</div>
+				</div>
+				<div>
+					<h3><i class="fa fa-close" style="color: red;"></i> Bad for recognition</h3>
+					<div class="sample-img-div">
+						<img class="sample-img" src="./img/bad0.png" alt="sample digit image" />
+						<img class="sample-img" src="./img/bad1.png" alt="sample digit image" />
+						<img class="sample-img" src="./img/bad2.png" alt="sample digit image" />
+						<img class="sample-img" src="./img/bad3.png" alt="sample digit image" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<header>
+		<h1>NeuralNet Number Recognizer</h1>
+	</header>
+	<main>
+		<section id="draw-section">
+			<h2>Draw 1 digit number (range 0 to 9) in box</h2>
+			<p>( Draw in full box, center and bold. See examples <i id="sample-open-btn" class="fa fa-info-circle"></i> )</p>
+			<div>
+				<div id="draw-box"></div>
+				<div id="tools">
+					<i id="pencil" class="tool-option fa fa-pencil" title="Pencil"></i>
+					<i id="eraser" class="tool-option fa fa-eraser" title="Eraser"></i>
+					<i id="reset" class="tool-option fa fa-refresh" title="Reset"></i>
+				</div>
+			</div>
+		</section>
+		<section id="preview-section">
+			<div id="btn-box">
+				<button onclick="recognize()" title="Recognize image with neural network">Recognize</button>
+				<button onclick="showPrev()" title="Average pooling image">Preview</button>
+			</div>
+			<div id="preview-div">
+				<div id="preview-box"></div>
+				<div id="neuralnet">
+					<svg width="230" height="150" viewBox="0 0 230 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<defs>
+							<clipPath id="mynn">
+								<circle cx="170" cy="105" r="15" fill="black"/>
+								<circle cx="170" cy="45" r="15" fill="black"/>
+								<circle cx="60" cy="135" r="15" fill="black"/>
+								<circle cx="60" cy="75" r="15" fill="black"/>
+								<circle cx="60" cy="15" r="15" fill="black"/>
+								<rect x="61.3405" y="12.934" width="112.731" height="6" transform="rotate(15 61.3405 12.934)" fill="black"/>
+								<rect x="61.5529" y="73" width="112.731" height="6" transform="rotate(15 61.5529 73)" fill="black"/>
+								<rect x="60" y="132.177" width="112.731" height="6" transform="rotate(-15 60 132.177)" fill="black"/>
+								<rect x="58" y="130.974" width="141.27" height="6" transform="rotate(-38 58 130.974)" fill="black"/>
+								<rect x="61.694" y="15" width="141.27" height="6" transform="rotate(38 61.694 15)" fill="black"/>
+								<rect x="60" y="72.1769" width="112.731" height="6" transform="rotate(-15 60 72.1769)" fill="black"/>
+								<!-- <rect y="12" width="60" height="6" fill="black"/> -->
+								<!-- <rect y="72" width="60" height="6" fill="black"/> -->
+								<!-- <rect x="170" y="102" width="60" height="6" fill="black"/> -->
+								<!-- <rect x="170" y="42" width="60" height="6" fill="black"/> -->
+								<!-- <rect y="132" width="60" height="6" fill="black"/> -->
+							</clipPath>
+						<defs>
+				</svg>
+			</div>
+			<div id="result-box"></div>
+		</div>
+	</section>
+	</main>
+	<footer>
+		<p>Designed &amp; developed by <a href="https://github.com/vaibhavjaiswar" target="_blank">Vaibhav Jaiswar</a></p>
+	</footer>
+	<script type="text/javascript" src="./js/script.js"></script>
+	<script type="text/javascript" src="./js/weightscopy.js"></script>
+	<script type="text/javascript" src="./js/think.js"></script>
+	<!-- <script type="text/javascript" src="./neural networks/nnoutput.js"></script> -->
+</body>
+</html>
