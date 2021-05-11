@@ -64,7 +64,7 @@ function think(X) {
 			index = i
 		}
 	}
-	console.log(`Number is ${index}.`)// Max value at ${max}.
+	// console.log(`Number is ${index}.`)// Max value at ${max}.
 
 	if (max == 0.6011409536905252)	// for empty drawing
 		return `I think you should draw something...`
