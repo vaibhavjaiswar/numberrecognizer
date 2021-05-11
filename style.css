@@ -209,7 +209,7 @@ footer a {
 
 
 #all-sample-div {
-	max-height: calc(100% - 20px);
+	max-height: calc(100% - 50px);
 	overflow-y: scroll;
 }
 
